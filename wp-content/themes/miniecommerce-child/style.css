@@ -1,0 +1,25 @@
+/*
+Theme Name: miniecommerce Child
+Theme URI: https://h3inpersonal.com/themes/miniecommerce/
+Template: miniecommerce
+Author: heinhtetaung
+Author URI: https://h3inpersonal.com/themes/miniecommerce/
+Description: Mini wordpress bootstrap theme for ecommerce
+Version: 1.0.1643168615
+Updated: 2022-01-26 03:43:35
+
+*/
+
+
+.site-header{
+    background: #5e0000;
+}
+
+.site-header a{
+	color: #3cff00;
+}
+
+.position-relative.overflow-hidden.p-3.p-md-5.m-md-3.text-center.bg-light{
+	background: url('https://phoneandlaptopsale.000webhostapp.com/wp-content/uploads/2022/01/annie-spratt-VDXtVYJVj7A-unsplash-scaled.jpg') no-repeat center center;
+	background-size: cover;
+}
